@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
+    
     char Nme;
     printf("Welcome to CS 290!\n");
     printf("What is your name? \n");
